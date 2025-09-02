@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/firstTabIcon.png</file>
+        <file>icons/secondTabIcon.png</file>
+        <file>icons/thirdTabIcon.png</file>
+        <file>icons/blood.png</file>
+        <file>icons/disinfection.png</file>
+        <file>icons/fluid.png</file>
+        <file>icons/fluidbypass.png</file>
+        <file>icons/functions.png</file>
+        <file>icons/history.png</file>
+        <file>icons/patient.png</file>
+        <file>icons/ultrafilteration.png</file>
+    </qresource>
+</RCC>
